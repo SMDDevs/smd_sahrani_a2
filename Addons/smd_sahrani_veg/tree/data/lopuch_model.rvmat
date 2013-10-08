@@ -1,0 +1,20 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 3.52
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class smd_sahrani_veg : tree\data\lopuch_model.rvmat{
+ambient[] = {0.4,0.4,0.4,1};
+diffuse[] = {0.4,0.4,0.4,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0,0,0,1};
+specularPower = 1;
+PixelShaderID = "Grass";
+VertexShaderID = "Basic";
+mainLight = "Sun";
+renderFlags[] = {"AlphaTest64"};
+fogMode = "Fog";
+//};

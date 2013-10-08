@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 3.52
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class smd_sahrani_veg : tree\data\fikovnik2_1.rvmat{
+ambient[] = {0.9,0.9,0.9,1};
+diffuse[] = {0.8,0.8,0.8,1};
+forcedDiffuse[] = {0.2,0.2,0.2,0.5};
+emmisive[] = {0,0,0,1};
+specular[] = {0.04,0.04,0.04,1};
+specularPower = 20;
+PixelShaderID = "NormalMapSpecularThrough";
+VertexShaderID = "NormalMapSpecularThrough";
+class Stage1
+{
+ texture = "smd_sahrani_veg\tree\data\fikovnik2_1_non.paa";
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1,0,0};
+  up[] = {0,1,0};
+  dir[] = {0,0,0};
+  pos[] = {0,0,0};
+ };
+};
+class Stage2
+{
+ texture = "#(ai,32,32,1)treeCrown(0.1)";
+ uvSource = "none";
+};
+class Stage3
+{
+ texture = "#(ai,32,32,1)treeCrownAmb(0.3)";
+ uvSource = "none";
+};
+//};
