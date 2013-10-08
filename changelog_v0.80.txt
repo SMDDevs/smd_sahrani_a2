@@ -1,0 +1,56 @@
+INITIAL RELEASE - 24 Aug 2013 v0.50
+[24 Aug 2013] 
+[Added] - A2 Alpha/Alpha Grid Number Scheme (allows for use of Artillery Computers, and normal readouts on GPS) 
+[Added] - A2 Object Pathing (all possible A2 replacement Objects are called instead of packing them with the map) 
+[Added] - A2 Roadways 
+[Added] - Building - benzina_schnell_open 
+[Added] - Building - dum_olezlina (Replaced with identical building with interior) 
+[Added] - Building - garaz_mala (RENAME TO garaz_mala_open)
+[Added] - Building - house_y (interior added WIP) 
+[Fixed] - Building - army_hut_int (Collisions Issues Fixed) 
+[Fixed] - Building - army_hut2 (Collisions Issues Fixed) 
+[Fixed] - Building - army_hut2_int (Collisions Issues Fixed) 
+[Fixed] - Building - army_hut3_long_int (Collisions Issues Fixed) 
+[Fixed] - Building - hospoda_mesto (A1 Pub Collisions Issues Fixed) 
+[Fixed] - Building - strazni_vez2 (Collisions Issues Fixed) 
+[Fixed] - Objects - zavora (Guardhouse gate no animates open/close with action menu) 
+[Fixed] - Structures - Molo_beton (Dock/Pier) (AI Pathing Fixes)
+[Fixed] - Structures - Molo_krychle (Dock/Pier) (AI Pathing Fixes)
+[Fixed] - Structures - Molo_krychle2 (Dock/Pier) (AI Pathing Fixes)
+[Fixed] - Structures - nabrezi (Dock/Pier) (AI Pathing Fixes)
+[Fixed] - Structures - nabrezi_najezd (Dock/Pier - Railing) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_cornL (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_cornP (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_cube (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_cube_long (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_mid (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_mid_cornL (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_mid_cornP (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_stairs (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_stairs2 (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_stairs3 (Retaining Wall) (AI Pathing Fixes)
+[Fixed] - Structures - podesta_1_stairs4 (Retaining Wall) (AI Pathing Fixes)
+[Removed] - Single roadside Post in a field NW of Bagango (Seven's Post)
+
+UPDATE - 31 Aug 2013 - v0.55
+[31 AUG 2013]
+[Added] - Building - dum_istan_02_open (4 Story Grey Stone Apartments present in Southern Sahrani 
+[Fixed] - BUG - User Created Missions crashing on "Resume" 
+[Fixed] - Object Placement - Blanket fixes, Town by Town sweep for Objects and Vegetation Clipping into each other and buildings 
+[Fixed] - Object Placement - House heights blanket adjusted with stairs placed at entrances when require
+
+UPDATE 07 Oct 2013 - v.0.80		
+[07 Oct 2013]
+[Fixed] - Object Name - Incorrect model name used zidka03 changed to zidka_branka
+[Added] - Building - smd_dum_olez_istan1_open (2 versions)
+[Added] - Building - smd_dum_olez_istan2_open (2 versions)
+[Added] - Building - smd_bouda_plech_open
+[Added] - Building - smd_dum_mesto_in_open
+[Added] - Building - smd_hangard_withdoor (Desert Aircraft hangar with animated front doors and roll up door with SFX) 
+[Added] - Feature - Glass to many of the smd_ Buildings
+[Fixed] - Building - smd_budova4_in (A1 Enterable Army Barracks) (fixed and animated doors)
+[Fixed] - Conflict - Skybox altered to prevent conflicts
+[Fixed] - Object Name - Incorrect model name used zidka03 changed to zidka_branka
+[Fixed] - Object Name - All Land Classed Objects renamed to include smd_ ofpec tag prefix to prevent conflicts
+[Fixed] - Structures - Docks at Corazol placment issue
+[Removed] - Building - dum_istan_02_open

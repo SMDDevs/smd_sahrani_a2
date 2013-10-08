@@ -1,0 +1,98 @@
+
+
+
+Release Thread
+- http://forums.bistudio.com/showthread.php?162282-SMD_Sara_A2-Full-Sahrani-Map-Port-Initial-Release
+
+Release Post:
+
+After almost exactly 6 months from the birth of what we thought at times was an impossible dream, we are pleased to announce our initial release of our full Arma 2 map port of the Armed Assault classic map Sahrani.
+
+The Goals for the project and any bug reports for this build can found or made in the "Work in Progress" thread.
+
+In Short we aim to provide a higher quality Sahrani in terms of textures and features for Arma 2 enthusiasts to use. It should be more friendly to Arma AI, artillery computers, and the player's eye.
+
+This project was made possible only thanks to the open modding environment and map source files provided by Bohemia Interactive.
+
+We can not begin to thank them or this community enough for the generosity of knowledge, assets, and time they've shown us.
+
+Since I stumbled into the Armaverse by way of the DayZ Mod, I have been amazed by the wealth of mods, modders, and communities willing to share their knowledge and experience with us.
+
+Our Team is comprised of many members, but this map, and the majority of opened buildings on it, are largely the work of only one of them. 
+
+M1lkm8n has worked tirelessly to do justice to this amazing map, and to treat the source files provided by Bohemia Interactive with the utmost respect and reverence.
+
+His work on the terrain in Visitor, as well as his modelling, configs, and work on animated destruction, and more interactive buildings, with all the LOD's that allow for a more immersive experience for the player.
+
+ShermanFTW and EHDSeven have also contributed by way of building models, general advice, and guidance as M1lkm8n went from newbie modeller to being one of the teams top producers of buildings as well!
+
+Pliskin ShermanFTW and Yoshi have done some AMAZING work on textures thanks to the generous spirits of Bohemia Interactive, Icewindo, and Vilas, with surely more to come.
+
+These as well as all of our assets will be open for use as a separate addon, and also packaged within the next map release. We are working on buttoning up the configs now.
+
+======
+CREDITS
+======
+
+We have MANY people to thank for their help who are documented in further detail in the package. 
+
+PLEASE consider donating to any one of these pillars of the community to ensure future works, and keeping the machine moving forward!
+
+=============
+HUGE Thanks to:
+=============
+
+Bohemia Interactive - Makers of some of the Most AMAZING Video Games in the World!
+We can't thank the following enough:
+- Ota Vrtatko
+- Ivan Buchta
+- David Foltyn (Dwarden)
+
+CG Textures - PLEASE NOTE we have used textures from http://www.cgtextures.com/ they are a wonderful resource for non-commercial game textures
+
+Bohemia Interactive Forums - We can't thank the following members enough:
+- BadBenson
+- Bushlurker
+- Dslyecxi
+- Icewindo
+- kju[PVPSCENE]
+- Mikero
+- Mondkalb
+- Smookie
+- SnakeManPMC
+- W0lle
+- Wld427
+- Vilas
+
+
+=========
+Our Team:
+=========
+
+==================
+The Sahrani Mod Dev team:
+==================
+Founding Members:
+=============
+M1lkM8n - Terrain Lead - Art, Modelling, Terrain Editing
+Seven - Art, Modelling, Programming
+ShermanFTW - Founder - Art, Modelling, Programming
+NonovUrbizniz - Project Coordinator - Permissions, Tester
+
+Team Members:
+===========
+CyberSam248 - Modelling
+Grafzahl - Programming
+J3T - Programming
+Pliskin - Art, Testing
+Yoshi - Art
+Xerxes - Modelling
+ZombieDanceLeader - Art
+
+======
+License:
+======
+
+Detailed license.txt - Put simple - This is a Bohemia Map, our version is open for use by anyone within the confines of Arma and it's sequels, however no source files can or will be provided by us as they belong to Bohemia and are used only under direct license for our project.
+
+

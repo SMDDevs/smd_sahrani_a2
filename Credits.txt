@@ -1,0 +1,102 @@
+SMD Sahrani A2 - Credits
+
+Created using tools, and content from Bohemia Interactive
+see www.bistudio.com for more information.
+
+Please note any/all parts of this package are intended only for the non-commercial use in Arma and it's sequels.
+
+All original content Created the by SMD Dev group is fully open for non comemercial derivitive works, use, repackaging, and/or re-distribution within Arma and it's Sequels ONLY.
+
+ANY content from other authors (including Bohemia Interactive) is being used ONLY with express written permission from the original authors 
+and is in no way being represented, packaged or distributed as our own. 
+
+Permission to use, modify, repackage or redistribute their work must be obtained from the original authors.
+
+All Credits as below:
+
+First and foremost special thanks to: Bohemia Interactive Studios.
+Without the years and years of work, none of this would be possible
+Thank you for:
+
+THE GAMES and their endless libraries of content:
+Operation Flashpoint, Armed Assault, Arma 2, Arma 2 Operation Arrowhead, and Arma III
+
+THE MAP and it's breath taking beauty and design:
+Sahrani
+
+We have used textures from http://www.cgtextures.com/ check them out!
+
+A VERY Special thanks to kju[PVPSECENE] and the Caa1 group for bringing the Arma 1 classic Sahrani (and all other A1 content) to Arma2.
+
+An Amazing guy, group, and endless stream of quality work PLEASE consider donating to kju[PVPSCENE] to support his future works such as All in Arma:
+http://forums.bistudio.com/showthread.php?152706-All-in-Arma-(AiA)-TKOH-OA-A2-A1-merge-with-A3
+
+A VERY Special thanks to Mikero for his amazing library of Tools that allow so many modders to do their work without problems! AMAZING WORK!
+Please consider donating to Mikero to support his future works without community members like this work would grind to a halt: 
+http://forums.bistudio.com/showthread.php?118821-Mikero-s-Dos-Tools
+
+A VERY Special thanks to Sickboy for the Dev-Heaven.net and PlayWithSix projects. Again Community members making tools that make our work possible.
+Please consider donating to Sickboy to support his future works. If you haven't already please consider trying out PlayWithSix if you are a DayZ only player, 
+you may find there are LOTS of Arma2 Mods sitting there waiting for you to enjoy! ACE, CWR2, Invasion44, and COUNTLESS others. Expand your horizons!
+Arma is too big of a playground to not explore!
+https://dev-heaven.net/
+http://play.withsix.com/
+
+A VERY Special thanks to Vilas who's amazing models are being used to create the Pliskin Units
+
+AND NOW.... For us and our special thanks (many repeats but still insufficient IMO)
+
+====================
+The Sahrani Mod Dev team:
+====================
+M1lkM8n - Terrain Lead - Art, Modelling, Terrain Editing
+NonovUrbizniz - Project Coordinator - Media, Permissions, Pro(cut/paste)gramming, Testing
+ShermanFTW - Founder - Modelling
+Pliskin - Graphic/Texture Artist
+Seven - Modelling
+
+Our WHOLE Group:
+Grafzahl - Programming
+J3T - Programmin
+JST (CyberSam248) - Modelling
+Pliskin - Addon Integration, Art, Programming,
+Yoshi - Art
+PepinKR - Retired Programmer
+NWP - Retired Programmer
+Xerxes - Modelling
+ZombieDanceLeader - Art
+
+=============
+HUGE Thanks to:
+=============
+Bohemia Interactive - Makers of some of the Most AMAZING Video Games in the World!
+We can't thank the following enough:
+- Ota Vrtatko - Public Relations
+- Ivan Buchta - Map Maker and Sahrani Bohemia Map Team Alum!
+- David Foltyn (Dwarden) - Battleye and DayZ Ambassador
+Bohemia Interactive Forums - We can't thank the following members enough:
+- BadBenson - For all his advice for animated bridges, and rousing political debates ;-)
+- Bushlurker - BI Developer, CWR2 Dev and Terrain/Tutorial Magician
+- Dslyecxi - Addon Author and Tactician extraordinaire
+- Icewindo - Master Addon Maker (Sahrani Civilian Units and 2017 Post Apocalypse Units just to mention 2!)
+- Jdb - Amazing guide to the catacombs of licensing and permissions
+- Kju[PVPSCENE] - Maker of All in Arma (reason Zoombies works) and @Caa1 (reason Sahrani works).. IE Pretty Fucking Awesome guy in the community!
+- MaxPower - Moderator to the Stars and CWR2 coordinator
+- Mikero - CWR2 Dev & maker of COUNTLESS tools that help Terrain Artists and Modders do what they do! A TRUE Arma Modder's Hero
+- Mondkalb - BIS Developer and author of Tutorials!
+- Smookie - BIS Developer from FragOut Studios
+- SnakeManPMC - Terrain Master and PMC Wiki Creator
+- W0lle - Project Lead for Cold War Rearmed!
+- Vilas - Legendary Weapon Pack and Addon Maker
+
+Caa1 Project - Kju's Project to bring Arma 1 Content to Arma 2
+OAC Core Project - Makes Caa1 Content work in Arma 2
+Pwnoz0r - for his Easy Server Installer!
+The ENTIRE OpenDayz community and the admins for their support
+VertHosting - Thank you James Warner!
+DayZHorror - Wonderful EU Gaming Community
+- Cookies
+- SmKes
+- ALL THE GUYS! GREAT COMMUNITY!
+
+In case I missed anyone... YOU TOO!!!!!!! We love you all.
