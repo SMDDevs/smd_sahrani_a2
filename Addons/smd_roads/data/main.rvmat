@@ -1,0 +1,34 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 3.52
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class smd_roads : data\main.rvmat{
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {0,0,0,1};
+specular[] = {0.048,0.048,0.048,0};
+specularPower = 10;
+PixelShaderID = "NormalMap";
+VertexShaderID = "NormalMap";
+class Stage1
+{
+ texture = "smd_roads\data\road_istan_nof.paa";
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1,0,0};
+  up[] = {0,1,0};
+  dir[] = {0,0,1};
+  pos[] = {0,0,0};
+ };
+};
+class Stage3
+{
+ texture = "#(ai,32,128,1)irradiance(4)";
+ uvSource = "none";
+};
+//};
