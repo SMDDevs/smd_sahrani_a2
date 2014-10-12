@@ -1,0 +1,44 @@
+setAccTime .500
+titlecut [" ","BLACK IN",1]
+_camera = "camera" camcreate [0,0,0]
+_camera cameraeffect ["internal", "back"]
+
+showcinemaborder false;
+
+;=== 12:25:00;
+_camera camPrepareTarget [-70867.57,69915.63,9777.07];
+_camera camPreparePos [8658.85,10081.38,0.86];
+_camera camPrepareFOV 1.965;
+_camera camCommitPrepared 0
+
+;comment "12:26:25";
+_camera camPrepareTarget [-20212.71,81687.89,-63432.95];
+_camera camPreparePos [8652.66,10022.52,48.46];
+_camera camPrepareFOV 0.812;
+_camera camCommitPrepared 10
+
+?man1 distance chicken <=3 : goto "nextscene"
+
+~15
+
+#nextscene
+
+;comment "12:26:25";
+_camera camPrepareTarget [-20212.71,81687.89,-63432.95];
+_camera camPreparePos [8652.66,10022.52,48.46];
+_camera camPrepareFOV 0.812;
+_camera camCommitPrepared
+
+;comment "12:33:36";
+_camera camPrepareTarget [-42791.84,-75458.73,-5314.51];
+_camera camPreparePos [8565.62,10184.38,31.26];
+_camera camPrepareFOV 0.205;
+_camera camCommitPrepared 10
+
+
+~25
+
+_camera cameraeffect ["terminate","back"]
+camdestroy _camera
+end1=true;
+exit;
